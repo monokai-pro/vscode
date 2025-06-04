@@ -1,5 +1,14 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.7 (04-06-25)
+
+- [new] F# icon
+- [new] JavaScript / TypeScript unit test icons
+- [fix] gitconfig icon
+- [fix] namespace coloring
+- [fix] remote extension badge color
+- [fix] suggestion select background
+
 ## 2.0.6 (15-01-25)
 
 - [fix] UI checkbox, button color tweaks
