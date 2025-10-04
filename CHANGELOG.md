@@ -1,6 +1,16 @@
 # Monokai Pro for Visual Studio Code Changelog
 
-## 2.0.7 (04-06-25)
+## 2.0.8 (25-10-04)
+
+- [fix] list drop background fix
+- [new] agents icon
+- [new] claude icon
+- [new] gleam icon
+- [new] groq icon
+- [new] nim icon
+- [new] nix icon
+
+## 2.0.7 (25-06-04)
 
 - [new] F# icon
 - [new] JavaScript / TypeScript unit test icons
@@ -9,18 +19,18 @@
 - [fix] remote extension badge color
 - [fix] suggestion select background
 
-## 2.0.6 (15-01-25)
+## 2.0.6 (25-01-15)
 
 - [fix] UI checkbox, button color tweaks
 - [new] cuda c++ icons
 - [new] bun.lock icon
 
-## 2.0.5 (04-12-24)
+## 2.0.5 (24-12-04)
 
 - [fix] rust improvements
 - [fix] ansible improvements
 
-## 2.0.2 (03-11-24)
+## 2.0.2 (24-11-03)
 
 - [fix] light theme categorization
 - [fix] UI tweaks
@@ -29,7 +39,7 @@
 
 - [fix] Light activity bar fix
 
-## 2.0.0 (23-10-24)
+## 2.0.0 (24-10-23)
 
 - [new] Monokai Pro Light
 - [new] Monokai Pro Light (filter Sun)
@@ -37,17 +47,17 @@
 - [new] bun.lockb icon
 - [new] kotlin icon
 
-## 1.3.2 (21-04-24)
+## 1.3.2 (24-04-21)
 
 - [new] gulpfile icon
 
-## 1.3.1 (18-04-24)
+## 1.3.1 (24-04-18)
 
 - [fix] command center debug background
 - [fix] vue icon
 - [fix] various file icon syntax scoping fixes
 
-## 1.3.0 (17-04-24)
+## 1.3.0 (24-04-17)
 
 - [new] adonisjs icon
 - [new] ansible icon
@@ -72,7 +82,7 @@
 - [new] yarn icon
 - [fix] various color fixes
 
-## 1.2.2 (22-12-23)
+## 1.2.2 (23-12-22)
 
 - [new] inlay hints colors
 - [new] astro icon
@@ -81,7 +91,7 @@
 - [fix] java import color fix
 - [fix] various color fixes
 
-## 1.2.1 (03-05-23)
+## 1.2.1 (23-05-03)
 
 - [new] profile badge color
 - [fix] trailing comma fix
@@ -89,11 +99,11 @@
 - [fix] transparent scroll bar in diff view
 - [fix] markdown punctuation in links
 
-## 1.2.0 (27-11-22)
+## 1.2.0 (22-11-27)
 
 - [new] web extension compatible
 
-## 1.1.21 (27-08-22)
+## 1.1.21 (22-08-27)
 
 - [new] added hare icon
 - [new] added clojure icon
@@ -103,7 +113,7 @@
 - [new] added inline value colors
 - [fix] fixed various user interface colors
 
-## 1.1.20 (19-01-22)
+## 1.1.20 (22-01-19)
 
 - [fix] constants in python
 - [fix] docstrings in python
@@ -112,23 +122,23 @@
 - [new] added support for untrusted workspaces
 - [new] added support for colored bracket pairs
 
-## 1.1.19 (06-04-21)
+## 1.1.19 (21-04-06)
 
 - [fix] editor theme additions
 - [fix] ruby syntax highlight improvements
 
-## 1.1.18 (18-11-20)
+## 1.1.18 (20-11-18)
 
 - [new] chart colors
 - [new] crystal icon
 - [fix] git decoration colors
 - [fix] vue custom component color
 
-## 1.1.17 (09-06-20)
+## 1.1.17 (20-06-09)
 
 - [fix] constant variable highlighting
 
-## 1.1.16 (06-06-20)
+## 1.1.16 (20-06-06)
 
 - [new] haxe icon
 - [new] elm icon
@@ -138,7 +148,7 @@
 - [fix] remote icon color
 - [fix] list selection color
 
-## 1.1.15 (17-02-20)
+## 1.1.15 (20-02-17)
 
 - [fix] diff highlight text offset
 - [fix] updated extension kind
@@ -150,7 +160,7 @@
 - [new] light bulb icon colors
 - [new] debug icon colors
 
-## 1.1.14 (24-08-19)
+## 1.1.14 (19-08-24)
 
 - [new] stylus icon
 - [new] added c++ intellisense scopes
@@ -158,7 +168,7 @@
 - [fix] cls python variable color
 - [fix] url opener package update
 
-## 1.1.13 (26-04-19)
+## 1.1.13 (19-04-26)
 
 - [new] classes in html syntax
 - [new] ids in html syntax
@@ -166,16 +176,16 @@
 - [fix] julia icon fix
 - [fix] closing quote color in style attributes of html tags
 
-## 1.1.12 (06-03-19)
+## 1.1.12 (19-03-06)
 
 - [fix] italics are back
 - [fix] python syntax highlighting
 
-## 1.1.11 (03-03-19)
+## 1.1.11 (19-03-03)
 
 - [fix] c++ syntax fixes
 
-## 1.1.10 (18-02-19)
+## 1.1.10 (19-02-18)
 
 - [fix] changed inactive focus background in lists
 - [fix] fixed function arguments color in c++
@@ -186,7 +196,7 @@
 - [new] modified tab colors
 - [new] webp images show image icon
 
-## 1.1.9 (12-11-18)
+## 1.1.9 (18-11-12)
 
 - [fix] SCSS updates
 - [fix] show blade icon for laravel blade files
@@ -197,11 +207,11 @@
 - [new] julia icon
 - [new] fortran icon
 
-## 1.1.8 (11-06-18)
+## 1.1.8 (18-06-11)
 
 - [fix] reverted highlighting class scopes
 
-## 1.1.7 (10-06-18)
+## 1.1.7 (18-06-10)
 
 - [fix] updates for new visual code style definitions
 - [fix] list hover more prominent
@@ -219,7 +229,7 @@
 - [new] eslint icon
 - [new] .env icon
 
-## 1.1.6 (11-04-18)
+## 1.1.6 (18-04-11)
 
 - [fix] updates for new visual code style definitions
 - [fix] highlight color non-opaque
@@ -232,7 +242,7 @@
 - [new] elixir icon
 - [new] graphql icon
 
-## 1.1.5 (31-12-17)
+## 1.1.5 (17-12-31)
 
 - [new] handlebars icon
 - [fix] sass / scss updates
@@ -241,7 +251,7 @@
 - [fix] react syntax highlighting updates
 - [fix] c++ syntax highlighting updates
 
-## 1.1.2 (04-10-17)
+## 1.1.2 (17-10-04)
 
 - [new] add transparency to tab drop background
 - [new] todo / fixme highlighting in python comments
@@ -250,7 +260,7 @@
 - [fix] removed dashed borders in version control status
 - [fix] find all references files color fix
 
-## 1.1.1 (21-09-17)
+## 1.1.1 (17-09-21)
 
 - [new] csv and sql icons
 - [new] added some JSDoc highlighting
@@ -261,7 +271,7 @@
 - [fix] various syntax highlighting fixes
 - [fix] when selecting a Monokai Pro theme, the icon theme will change along only if the current icon theme is already a Monokai Pro icon theme
 
-## 1.1.0 (30-08-17)
+## 1.1.0 (17-08-30)
 
 - [new] scope selectors rewrite for better syntax highlighting in more languages
 - [new] icon and syntax highlighting for restructuredtext
@@ -276,6 +286,6 @@
 - [fix] adjusted dropdown background colors
 - [fix] adjusted terminal ansi color for bright black
 
-## 1.0.0 (20-08-17)
+## 1.0.0 (17-08-20)
 
 Initial release
