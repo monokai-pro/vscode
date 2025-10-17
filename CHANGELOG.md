@@ -1,5 +1,12 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.9 (25-10-17)
+
+- [new] jupyter icon
+- [new] gradle icon
+- [fix] disabled item color
+- [new] js decorator color
+
 ## 2.0.8 (25-10-04)
 
 - [fix] list drop background fix
