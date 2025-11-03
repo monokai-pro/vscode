@@ -1,21 +1,29 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.10 (25-11-03)
+
+- [new] skill icon
+- [new] zig icon
+- [new] polyglot notebook icon
+- [new] update icon set when "auto detect system color mode" is active
+- [new] license / email information is stored in secret storage
+
 ## 2.0.9 (25-10-17)
 
 - [new] jupyter icon
 - [new] gradle icon
-- [fix] disabled item color
 - [new] js decorator color
+- [fix] disabled item color
 
 ## 2.0.8 (25-10-04)
 
-- [fix] list drop background fix
 - [new] agents icon
 - [new] claude icon
 - [new] gleam icon
 - [new] groq icon
 - [new] nim icon
 - [new] nix icon
+- [fix] list drop background
 
 ## 2.0.7 (25-06-04)
 
@@ -28,9 +36,9 @@
 
 ## 2.0.6 (25-01-15)
 
-- [fix] UI checkbox, button color tweaks
 - [new] cuda c++ icons
 - [new] bun.lock icon
+- [fix] UI checkbox, button color tweaks
 
 ## 2.0.5 (24-12-04)
 
@@ -122,12 +130,12 @@
 
 ## 1.1.20 (22-01-19)
 
-- [fix] constants in python
-- [fix] docstrings in python
 - [new] added svelte icon
 - [new] added rescript icon
 - [new] added support for untrusted workspaces
 - [new] added support for colored bracket pairs
+- [fix] constants in python
+- [fix] docstrings in python
 
 ## 1.1.19 (21-04-06)
 
@@ -157,8 +165,6 @@
 
 ## 1.1.15 (20-02-17)
 
-- [fix] diff highlight text offset
-- [fix] updated extension kind
 - [new] rust syntax highlighting updates
 - [new] toml icon
 - [new] dart icon
@@ -166,6 +172,8 @@
 - [new] symbol icon colors
 - [new] light bulb icon colors
 - [new] debug icon colors
+- [fix] diff highlight text offset
+- [fix] updated extension kind
 
 ## 1.1.14 (19-08-24)
 
@@ -194,25 +202,25 @@
 
 ## 1.1.10 (19-02-18)
 
-- [fix] changed inactive focus background in lists
-- [fix] fixed function arguments color in c++
 - [new] added terraform icon
 - [new] changed git icon from octocat to official git icon
 - [new] added colors for search field in lists
 - [new] active color for activity bar
 - [new] modified tab colors
 - [new] webp images show image icon
+- [fix] changed inactive focus background in lists
+- [fix] fixed function arguments color in c++
 
 ## 1.1.9 (18-11-12)
 
-- [fix] SCSS updates
-- [fix] show blade icon for laravel blade files
-- [fix] increased contrast diff background colors
-- [fix] user interface color tweaks
 - [new] settings view colors
 - [new] todo icon
 - [new] julia icon
 - [new] fortran icon
+- [fix] SCSS updates
+- [fix] show blade icon for laravel blade files
+- [fix] increased contrast diff background colors
+- [fix] user interface color tweaks
 
 ## 1.1.8 (18-06-11)
 
@@ -220,13 +228,6 @@
 
 ## 1.1.7 (18-06-10)
 
-- [fix] updates for new visual code style definitions
-- [fix] list hover more prominent
-- [fix] current file in sidebar gets subtle background
-- [fix] ruby syntax highlighting fixes
-- [fix] javascript class name colors
-- [fix] github icon
-- [fix] go icon
 - [new] root folder icons
 - [new] npm icon
 - [new] angular icon
@@ -235,19 +236,26 @@
 - [new] reason icon
 - [new] eslint icon
 - [new] .env icon
+- [fix] updates for new visual code style definitions
+- [fix] list hover more prominent
+- [fix] current file in sidebar gets subtle background
+- [fix] ruby syntax highlighting fixes
+- [fix] javascript class name colors
+- [fix] github icon
+- [fix] go icon
 
 ## 1.1.6 (18-04-11)
 
+- [new] git status syntax highlighting
+- [new] pug icon
+- [new] elixir icon
+- [new] graphql icon
 - [fix] updates for new visual code style definitions
 - [fix] highlight color non-opaque
 - [fix] embedded entities fix
 - [fix] invisibles a bit less prominent
 - [fix] closing bracket color for script tags in html
 - [fix] closing php tag
-- [new] git status syntax highlighting
-- [new] pug icon
-- [new] elixir icon
-- [new] graphql icon
 
 ## 1.1.5 (17-12-31)
 
