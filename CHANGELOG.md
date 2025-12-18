@@ -1,5 +1,11 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.11 (25-12-17)
+
+- [new] vite icon
+- [new] odin icon
+- [new] assembly icon
+
 ## 2.0.10 (25-11-03)
 
 - [new] skill icon
