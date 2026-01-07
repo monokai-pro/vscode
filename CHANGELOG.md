@@ -1,5 +1,11 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.12 (26-01-07)
+
+- [new] web assembly icon
+- [new] solidity icon
+- [new] gemini icon
+
 ## 2.0.11 (25-12-17)
 
 - [new] vite icon
