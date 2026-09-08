@@ -1,5 +1,11 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.15 (26-09-04)
+
+- [new] vitest icon
+- [new] oxformat icon
+- [new] oxlint icon
+
 ## 2.0.14 (26-08-05)
 
 - [new] agent window theme
