@@ -1,5 +1,9 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.16 (26-10-03)
+
+- [fix] tab colors in modern UI
+
 ## 2.0.15 (26-09-04)
 
 - [new] vitest icon
